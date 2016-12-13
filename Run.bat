@@ -1,2 +1,3 @@
 cd src
-java physics.Start 2
+# the '1' is the scale factor
+java physics.Start 1
